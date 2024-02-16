@@ -1,8 +1,8 @@
-# Personal Expense Tracking App
+#  💸 Personal Expense Tracking App 
 
 The Personal Expense Tracking App is a Python application designed to help users track, categorize, and manage their monthly expenses efficiently. It offers a simple and intuitive interface accessible directly from the terminal.
 
-## Key Features
+## ✅ Key Features
 
 - **Expense Entry:** Users can conveniently input their expense category and amount directly into the terminal.
 - **Data Persistence:** The app saves each expense entry to a file for easy retrieval and future reference.
@@ -16,8 +16,7 @@ The Personal Expense Tracking App is a Python application designed to help users
 
 ## Example Screenshot
 
-![](demo image.png)
-
+![Expense Tracker App](demo_image.png)
 ## Installation
 
 1. Clone the repository:
